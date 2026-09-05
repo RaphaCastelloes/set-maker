@@ -1,0 +1,2813 @@
+{
+  "directory": "/run/media/rapha/CASTELLO",
+  "recursive": true,
+  "track_count": 65,
+  "error_count": 0,
+  "rekordbox": {
+    "database": "/run/media/rapha/CASTELLO/PIONEER/rekordbox/exportLibrary.db",
+    "entry_count": 75,
+    "matched_count": 64,
+    "error": null
+  },
+  "tracks": [
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/122/12A Hugel/HUGEL, Adam\u00e9 (FR) - Champagne (feat. Amadi B.wav",
+      "duration_seconds": 318.2,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 122.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "4A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 97.1,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.45,
+        "crest_factor_db": 8.29,
+        "onsets_per_second": 7.747,
+        "spectral_centroid_hz": 2588.4,
+        "bass_power_ratio": 0.7634
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 80.9,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/122/12A Hugel/HUGEL, Adam\u00e9 (FR) - Champagne (feat. Amadi B.wav",
+      "collection": {
+        "rank": 1,
+        "percentile": 100.0,
+        "dj_level": 10
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/5A THEMBA/124_5A/Emanuele Esposito, Kanu, THEMBA (SA) - Pump .wav",
+      "duration_seconds": 301.94,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "5A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 97.1,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -6.65,
+        "crest_factor_db": 8.36,
+        "onsets_per_second": 7.078,
+        "spectral_centroid_hz": 2714.2,
+        "bass_power_ratio": 0.7156
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 80.4,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/5A THEMBA/124_5A/Emanuele Esposito, Kanu, THEMBA (SA) - Pump .wav",
+      "collection": {
+        "rank": 1,
+        "percentile": 100.0,
+        "dj_level": 10
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/125/4A Hugel/Ultra Nate, Hugel, Imael Angel - Movin' To T.wav",
+      "duration_seconds": 353.76,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 125.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "4A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.9,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.58,
+        "crest_factor_db": 8.46,
+        "onsets_per_second": 5.184,
+        "spectral_centroid_hz": 2736.9,
+        "bass_power_ratio": 0.7766
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 79.5,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/125/4A Hugel/Ultra Nate, Hugel, Imael Angel - Movin' To T.wav",
+      "collection": {
+        "rank": 3,
+        "percentile": 96.9,
+        "dj_level": 10
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/120/5A Hugel/Hugel, Flagrant Drvms, Barbara Doza - Ron Y .wav",
+      "duration_seconds": 312.25,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 120.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "5A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.8,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.49,
+        "crest_factor_db": 8.55,
+        "onsets_per_second": 6.674,
+        "spectral_centroid_hz": 2466.7,
+        "bass_power_ratio": 0.7788
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 78.7,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/120/5A Hugel/Hugel, Flagrant Drvms, Barbara Doza - Ron Y .wav",
+      "collection": {
+        "rank": 4,
+        "percentile": 95.4,
+        "dj_level": 10
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/125/7B Dubdogz/Dubdogz, Watzgood, Doral - Meu Bem (Extended.wav",
+      "duration_seconds": 295.68,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 125.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "7B",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.8,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -6.78,
+        "crest_factor_db": 8.52,
+        "onsets_per_second": 4.187,
+        "spectral_centroid_hz": 2422.1,
+        "bass_power_ratio": 0.8197
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 79.0,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/125/7B Dubdogz/Dubdogz, Watzgood, Doral - Meu Bem (Extended.wav",
+      "collection": {
+        "rank": 4,
+        "percentile": 95.4,
+        "dj_level": 10
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/120/1A HUGEL/HUGEL, Malachiii - Playboy (Extended Mix).wav",
+      "duration_seconds": 313.0,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 120.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "1A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.7,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.54,
+        "crest_factor_db": 8.67,
+        "onsets_per_second": 7.077,
+        "spectral_centroid_hz": 2141.7,
+        "bass_power_ratio": 0.6205
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 77.8,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/120/1A HUGEL/HUGEL, Malachiii - Playboy (Extended Mix).wav",
+      "collection": {
+        "rank": 6,
+        "percentile": 92.3,
+        "dj_level": 10
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/UnknownArtist/UnknownAlbum/Blue Eyes Blinded - Still Bleeding (Gabe Ext.wav",
+      "duration_seconds": 357.58,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 129.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "9A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.6,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.37,
+        "crest_factor_db": 8.69,
+        "onsets_per_second": 3.954,
+        "spectral_centroid_hz": 2026.0,
+        "bass_power_ratio": 0.8737
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 77.6,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/UnknownArtist/UnknownAlbum/Blue Eyes Blinded - Still Bleeding (Gabe Ext.wav",
+      "collection": {
+        "rank": 7,
+        "percentile": 90.8,
+        "dj_level": 10
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/UnknownArtist/UnknownAlbum/Orlando Voorn, Slikk Tim - Pushin' On (feat..wav",
+      "duration_seconds": 364.75,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "2A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.6,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.24,
+        "crest_factor_db": 8.71,
+        "onsets_per_second": 4.979,
+        "spectral_centroid_hz": 2381.1,
+        "bass_power_ratio": 0.864
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 77.4,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/UnknownArtist/UnknownAlbum/Orlando Voorn, Slikk Tim - Pushin' On (feat..wav",
+      "collection": {
+        "rank": 7,
+        "percentile": 90.8,
+        "dj_level": 10
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/128/9A Dubdogz/Dubdogz, Claudya - Deixa Eu Dizer (Extended).wav",
+      "duration_seconds": 218.0,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 128.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "9A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.5,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.75,
+        "crest_factor_db": 8.84,
+        "onsets_per_second": 4.628,
+        "spectral_centroid_hz": 2880.0,
+        "bass_power_ratio": 0.8281
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 76.4,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/128/9A Dubdogz/Dubdogz, Claudya - Deixa Eu Dizer (Extended).wav",
+      "collection": {
+        "rank": 9,
+        "percentile": 87.7,
+        "dj_level": 9
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/122/9A Hugel/HUGEL, Quavo - Where She Comes From (Extende.wav",
+      "duration_seconds": 292.25,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 122.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "9A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.2,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.51,
+        "crest_factor_db": 9.06,
+        "onsets_per_second": 6.751,
+        "spectral_centroid_hz": 2545.1,
+        "bass_power_ratio": 0.6146
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 74.5,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/122/9A Hugel/HUGEL, Quavo - Where She Comes From (Extende.wav",
+      "collection": {
+        "rank": 10,
+        "percentile": 86.2,
+        "dj_level": 9
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/128/10A Vinter/Vinter (BR) - Space Pump ((Space Jam) (Exten.wav",
+      "duration_seconds": 361.0,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 128.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "10A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.2,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.61,
+        "crest_factor_db": 9.06,
+        "onsets_per_second": 6.465,
+        "spectral_centroid_hz": 2508.3,
+        "bass_power_ratio": 0.8646
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 74.5,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/128/10A Vinter/Vinter (BR) - Space Pump ((Space Jam) (Exten.wav",
+      "collection": {
+        "rank": 10,
+        "percentile": 86.2,
+        "dj_level": 9
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/130/7A Dubdogz/Fezzo, Dubdogz, Zaark - How Does It Feel (Ex.wav",
+      "duration_seconds": 316.69,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 130.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "7A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.2,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -6.59,
+        "crest_factor_db": 9.01,
+        "onsets_per_second": 3.938,
+        "spectral_centroid_hz": 2610.2,
+        "bass_power_ratio": 0.8139
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 74.9,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/130/7A Dubdogz/Fezzo, Dubdogz, Zaark - How Does It Feel (Ex.wav",
+      "collection": {
+        "rank": 10,
+        "percentile": 86.2,
+        "dj_level": 9
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/125/12A HYPE/Ferrari - Oliver Heldens Extended.wav",
+      "duration_seconds": 307.79,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 125.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "12A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.1,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.09,
+        "crest_factor_db": 9.08,
+        "onsets_per_second": 6.355,
+        "spectral_centroid_hz": 2244.9,
+        "bass_power_ratio": 0.7937
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 74.3,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/125/12A HYPE/Ferrari - Oliver Heldens Extended.wav",
+      "collection": {
+        "rank": 13,
+        "percentile": 81.5,
+        "dj_level": 9
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/130/9A Dubdogz/Dubdogz, Breno Miranda - Bem Melhor (Extende.wav",
+      "duration_seconds": 236.31,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 130.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "9A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.1,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.88,
+        "crest_factor_db": 9.12,
+        "onsets_per_second": 4.528,
+        "spectral_centroid_hz": 2416.6,
+        "bass_power_ratio": 0.8616
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 74.0,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/130/9A Dubdogz/Dubdogz, Breno Miranda - Bem Melhor (Extende.wav",
+      "collection": {
+        "rank": 13,
+        "percentile": 81.5,
+        "dj_level": 9
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/UnknownArtist/UnknownAlbum/Kyle Icardi - Can't Stop (Original Mix).wav",
+      "duration_seconds": 310.15,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 130.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "6A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.1,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.68,
+        "crest_factor_db": 9.11,
+        "onsets_per_second": 5.981,
+        "spectral_centroid_hz": 2963.8,
+        "bass_power_ratio": 0.845
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 74.1,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/UnknownArtist/UnknownAlbum/Kyle Icardi - Can't Stop (Original Mix).wav",
+      "collection": {
+        "rank": 13,
+        "percentile": 81.5,
+        "dj_level": 9
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/130/3B Benny Benassi/Benny Benassi, Dualite - California Dreamin'.wav",
+      "duration_seconds": 236.89,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 130.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "3B",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 96.0,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.08,
+        "crest_factor_db": 9.24,
+        "onsets_per_second": 4.129,
+        "spectral_centroid_hz": 2905.4,
+        "bass_power_ratio": 0.5564
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 73.0,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/130/3B Benny Benassi/Benny Benassi, Dualite - California Dreamin'.wav",
+      "collection": {
+        "rank": 16,
+        "percentile": 76.9,
+        "dj_level": 8
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/121/9B Adan Lou/Ted Bear, Aden Lou - In The End (Extended Mi.wav",
+      "duration_seconds": 257.85,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 121.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "9B",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 95.9,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.0,
+        "crest_factor_db": 9.29,
+        "onsets_per_second": 7.609,
+        "spectral_centroid_hz": 1994.2,
+        "bass_power_ratio": 0.8308
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 72.6,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/121/9B Adan Lou/Ted Bear, Aden Lou - In The End (Extended Mi.wav",
+      "collection": {
+        "rank": 17,
+        "percentile": 75.4,
+        "dj_level": 8
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/UnknownArtist/UnknownAlbum/Breaking Beattz - La Partita (Extended Mix).wav",
+      "duration_seconds": 271.63,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 129.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "3A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 95.8,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.72,
+        "crest_factor_db": 9.37,
+        "onsets_per_second": 4.863,
+        "spectral_centroid_hz": 2369.9,
+        "bass_power_ratio": 0.8954
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 71.9,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/UnknownArtist/UnknownAlbum/Breaking Beattz - La Partita (Extended Mix).wav",
+      "collection": {
+        "rank": 18,
+        "percentile": 73.8,
+        "dj_level": 8
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/124/9B Gabe/Gabe, Vintage Culture, BONDI - Caught in Bet.wav",
+      "duration_seconds": 194.81,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "9B",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 95.7,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.6,
+        "crest_factor_db": 9.4,
+        "onsets_per_second": 3.829,
+        "spectral_centroid_hz": 1830.9,
+        "bass_power_ratio": 0.8227
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 71.6,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/124/9B Gabe/Gabe, Vintage Culture, BONDI - Caught in Bet.wav",
+      "collection": {
+        "rank": 19,
+        "percentile": 72.3,
+        "dj_level": 8
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/UnknownArtist/UnknownAlbum/Gadjo, Franky Wah - I'm Watching You (So Man.wav",
+      "duration_seconds": 437.76,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 125.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "8A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 95.7,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.87,
+        "crest_factor_db": 9.4,
+        "onsets_per_second": 4.763,
+        "spectral_centroid_hz": 2824.6,
+        "bass_power_ratio": 0.6626
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 71.7,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/UnknownArtist/UnknownAlbum/Gadjo, Franky Wah - I'm Watching You (So Man.wav",
+      "collection": {
+        "rank": 19,
+        "percentile": 72.3,
+        "dj_level": 8
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/121/9A Vintage/Vintage Culture, KVSH, Gilsons - V\u00e1rias Quei.wav",
+      "duration_seconds": 226.61,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 121.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "9A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 95.6,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.96,
+        "crest_factor_db": 9.53,
+        "onsets_per_second": 6.482,
+        "spectral_centroid_hz": 3161.1,
+        "bass_power_ratio": 0.6338
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 70.6,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/121/9A Vintage/Vintage Culture, KVSH, Gilsons - V\u00e1rias Quei.wav",
+      "collection": {
+        "rank": 21,
+        "percentile": 69.2,
+        "dj_level": 7
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/124/8A Tu tu tu/Galantis, NGHTMRE, Liam O'Donnell - Tu Tu Tu.wav",
+      "duration_seconds": 203.23,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "8A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 95.4,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.5,
+        "crest_factor_db": 9.69,
+        "onsets_per_second": 4.753,
+        "spectral_centroid_hz": 3099.4,
+        "bass_power_ratio": 0.6897
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 69.3,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/124/8A Tu tu tu/Galantis, NGHTMRE, Liam O'Donnell - Tu Tu Tu.wav",
+      "collection": {
+        "rank": 22,
+        "percentile": 67.7,
+        "dj_level": 7
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/127/1A Bob Sinclair/Bob Sinclar - World Hold On feat. Steve Edwa.wav",
+      "duration_seconds": 333.57,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 127.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "1A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 95.4,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.18,
+        "crest_factor_db": 9.45,
+        "onsets_per_second": 4.347,
+        "spectral_centroid_hz": 2838.1,
+        "bass_power_ratio": 0.6004
+      },
+      "components": {
+        "loudness": 99.2,
+        "compression": 71.2,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/127/1A Bob Sinclair/Bob Sinclar - World Hold On feat. Steve Edwa.wav",
+      "collection": {
+        "rank": 22,
+        "percentile": 67.7,
+        "dj_level": 7
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/129/2A Loofy/Loofy - Last Night (Extended Mix).wav",
+      "duration_seconds": 364.65,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 129.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "2A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 95.4,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.93,
+        "crest_factor_db": 9.68,
+        "onsets_per_second": 4.305,
+        "spectral_centroid_hz": 2498.0,
+        "bass_power_ratio": 0.8044
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 69.3,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/129/2A Loofy/Loofy - Last Night (Extended Mix).wav",
+      "collection": {
+        "rank": 22,
+        "percentile": 67.7,
+        "dj_level": 7
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/127/8A Dubdogz/Dubdogz, Breno Miranda - Confia Mais (Extend.wav",
+      "duration_seconds": 288.19,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 127.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "8A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 95.2,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.52,
+        "crest_factor_db": 9.21,
+        "onsets_per_second": 3.99,
+        "spectral_centroid_hz": 2762.7,
+        "bass_power_ratio": 0.7017
+      },
+      "components": {
+        "loudness": 97.8,
+        "compression": 73.2,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/127/8A Dubdogz/Dubdogz, Breno Miranda - Confia Mais (Extend.wav",
+      "collection": {
+        "rank": 25,
+        "percentile": 63.1,
+        "dj_level": 7
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/124/2A Claptone/Mylo, Claptone - Drop The Pressure (Extended.wav",
+      "duration_seconds": 437.94,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "2A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 95.0,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.34,
+        "crest_factor_db": 9.58,
+        "onsets_per_second": 4.539,
+        "spectral_centroid_hz": 2679.3,
+        "bass_power_ratio": 0.4234
+      },
+      "components": {
+        "loudness": 98.6,
+        "compression": 70.1,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/124/2A Claptone/Mylo, Claptone - Drop The Pressure (Extended.wav",
+      "collection": {
+        "rank": 26,
+        "percentile": 61.5,
+        "dj_level": 7
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/124/9A Lost Frequencies/Lost Frequencies - The Feeling (The Avener &.wav",
+      "duration_seconds": 257.42,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "9A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 95.0,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.37,
+        "crest_factor_db": 9.56,
+        "onsets_per_second": 7.105,
+        "spectral_centroid_hz": 2096.5,
+        "bass_power_ratio": 0.7269
+      },
+      "components": {
+        "loudness": 98.5,
+        "compression": 70.3,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/124/9A Lost Frequencies/Lost Frequencies - The Feeling (The Avener &.wav",
+      "collection": {
+        "rank": 26,
+        "percentile": 61.5,
+        "dj_level": 7
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/124/4A_ Vintage/Vintage Culture - Strange Feelings (Extended.wav",
+      "duration_seconds": 311.67,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "4A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 94.8,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.42,
+        "crest_factor_db": 9.64,
+        "onsets_per_second": 5.358,
+        "spectral_centroid_hz": 1945.3,
+        "bass_power_ratio": 0.688
+      },
+      "components": {
+        "loudness": 98.2,
+        "compression": 69.6,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/124/4A_ Vintage/Vintage Culture - Strange Feelings (Extended.wav",
+      "collection": {
+        "rank": 28,
+        "percentile": 58.5,
+        "dj_level": 6
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/125/12A Vanessa da Mata/Vanessa da Mata - Boa Sorte (Cool Keedz & Wa.wav",
+      "duration_seconds": 311.04,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 125.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "12A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 94.7,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -7.72,
+        "crest_factor_db": 10.22,
+        "onsets_per_second": 3.836,
+        "spectral_centroid_hz": 2405.0,
+        "bass_power_ratio": 0.737
+      },
+      "components": {
+        "loudness": 100.0,
+        "compression": 64.8,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/125/12A Vanessa da Mata/Vanessa da Mata - Boa Sorte (Cool Keedz & Wa.wav",
+      "collection": {
+        "rank": 29,
+        "percentile": 56.9,
+        "dj_level": 6
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/130/1A Dubdogz/Dubdogz, Zaark - Stolen Dance (Extended).wav",
+      "duration_seconds": 273.23,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 130.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "1A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 94.6,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.43,
+        "crest_factor_db": 9.79,
+        "onsets_per_second": 3.905,
+        "spectral_centroid_hz": 2977.3,
+        "bass_power_ratio": 0.6883
+      },
+      "components": {
+        "loudness": 98.2,
+        "compression": 68.4,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/130/1A Dubdogz/Dubdogz, Zaark - Stolen Dance (Extended).wav",
+      "collection": {
+        "rank": 30,
+        "percentile": 55.4,
+        "dj_level": 6
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/124/12A Hugel/Mili, Hugel, LaBritney - Stay Sexy (Extended.wav",
+      "duration_seconds": 348.87,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.03,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "12A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 94.3,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.89,
+        "crest_factor_db": 9.52,
+        "onsets_per_second": 5.311,
+        "spectral_centroid_hz": 2496.2,
+        "bass_power_ratio": 0.5638
+      },
+      "components": {
+        "loudness": 96.3,
+        "compression": 70.7,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/124/12A Hugel/Mili, Hugel, LaBritney - Stay Sexy (Extended.wav",
+      "collection": {
+        "rank": 31,
+        "percentile": 53.8,
+        "dj_level": 6
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/126/11A Hugel/Donel, Hugel - Next To Me (Extended Mix).wav",
+      "duration_seconds": 305.24,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 126.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "11A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 94.3,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.68,
+        "crest_factor_db": 9.77,
+        "onsets_per_second": 5.042,
+        "spectral_centroid_hz": 3352.7,
+        "bass_power_ratio": 0.4648
+      },
+      "components": {
+        "loudness": 97.1,
+        "compression": 68.6,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/126/11A Hugel/Donel, Hugel - Next To Me (Extended Mix).wav",
+      "collection": {
+        "rank": 31,
+        "percentile": 53.8,
+        "dj_level": 6
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/123/6A Hugel/Bryson Tiller, HUGEL - Temptation (Extended .wav",
+      "duration_seconds": 312.68,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 123.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "6A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 94.2,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.95,
+        "crest_factor_db": 9.5,
+        "onsets_per_second": 6.201,
+        "spectral_centroid_hz": 2446.1,
+        "bass_power_ratio": 0.5618
+      },
+      "components": {
+        "loudness": 96.0,
+        "compression": 70.8,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/123/6A Hugel/Bryson Tiller, HUGEL - Temptation (Extended .wav",
+      "collection": {
+        "rank": 33,
+        "percentile": 50.8,
+        "dj_level": 6
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/124/8A HOSH/HOSH, 1979, Jalja - Midnight (Original Mix).wav",
+      "duration_seconds": 434.17,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "8A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 94.2,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.72,
+        "crest_factor_db": 9.83,
+        "onsets_per_second": 6.493,
+        "spectral_centroid_hz": 2472.4,
+        "bass_power_ratio": 0.8272
+      },
+      "components": {
+        "loudness": 97.0,
+        "compression": 68.1,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/124/8A HOSH/HOSH, 1979, Jalja - Midnight (Original Mix).wav",
+      "collection": {
+        "rank": 33,
+        "percentile": 50.8,
+        "dj_level": 6
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/UnknownArtist/UnknownAlbum/Shouse - Won't Forget You (Club Mix).wav",
+      "duration_seconds": 396.63,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 127.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "6A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 94.2,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.68,
+        "crest_factor_db": 9.87,
+        "onsets_per_second": 3.578,
+        "spectral_centroid_hz": 2093.4,
+        "bass_power_ratio": 0.7147
+      },
+      "components": {
+        "loudness": 97.2,
+        "compression": 67.7,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/UnknownArtist/UnknownAlbum/Shouse - Won't Forget You (Club Mix).wav",
+      "collection": {
+        "rank": 33,
+        "percentile": 50.8,
+        "dj_level": 6
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/121/8B Levi/Levi - Jump (Extended Mix).aif",
+      "duration_seconds": 254.32,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 121.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "8B",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 94.1,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.14,
+        "crest_factor_db": 8.91,
+        "onsets_per_second": 5.902,
+        "spectral_centroid_hz": 1485.4,
+        "bass_power_ratio": 0.9074
+      },
+      "components": {
+        "loudness": 99.4,
+        "compression": 75.8,
+        "rhythmic_activity": 100.0,
+        "brightness": 78.9,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/121/8B Levi/Levi - Jump (Extended Mix).aif",
+      "collection": {
+        "rank": 36,
+        "percentile": 46.2,
+        "dj_level": 5
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/124/9A Lost Frequencies/Lost Frequencies - The Feeling (Doowy Remix).wav",
+      "duration_seconds": 206.23,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "9A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 94.1,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -9.06,
+        "crest_factor_db": 9.51,
+        "onsets_per_second": 4.592,
+        "spectral_centroid_hz": 2223.5,
+        "bass_power_ratio": 0.5423
+      },
+      "components": {
+        "loudness": 95.6,
+        "compression": 70.8,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/124/9A Lost Frequencies/Lost Frequencies - The Feeling (Doowy Remix).wav",
+      "collection": {
+        "rank": 36,
+        "percentile": 46.2,
+        "dj_level": 5
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/3A Claptone/124_3A/Rune RK, Claptone - Calabria (Claptone Exten.wav",
+      "duration_seconds": 265.18,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "3A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 94.1,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.59,
+        "crest_factor_db": 10.07,
+        "onsets_per_second": 4.751,
+        "spectral_centroid_hz": 3223.0,
+        "bass_power_ratio": 0.7604
+      },
+      "components": {
+        "loudness": 97.6,
+        "compression": 66.1,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/3A Claptone/124_3A/Rune RK, Claptone - Calabria (Claptone Exten.wav",
+      "collection": {
+        "rank": 36,
+        "percentile": 46.2,
+        "dj_level": 5
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/124/3A Maz (BR), Antdot, Sued Nunes/Maz (BR), Antdot, Sued Nunes - Povoada (Remi.wav",
+      "duration_seconds": 348.39,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "3A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 93.9,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.95,
+        "crest_factor_db": 9.79,
+        "onsets_per_second": 6.846,
+        "spectral_centroid_hz": 2025.1,
+        "bass_power_ratio": 0.6971
+      },
+      "components": {
+        "loudness": 96.1,
+        "compression": 68.4,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/124/3A Maz (BR), Antdot, Sued Nunes/Maz (BR), Antdot, Sued Nunes - Povoada (Remi.wav",
+      "collection": {
+        "rank": 39,
+        "percentile": 41.5,
+        "dj_level": 5
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/128/11A PAWSA/PAWSA - TOO COOL TO BE CARELESS (Extended Mi.wav",
+      "duration_seconds": 400.0,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 128.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "11A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 93.9,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -9.08,
+        "crest_factor_db": 9.66,
+        "onsets_per_second": 5.282,
+        "spectral_centroid_hz": 2161.2,
+        "bass_power_ratio": 0.8732
+      },
+      "components": {
+        "loudness": 95.5,
+        "compression": 69.5,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/128/11A PAWSA/PAWSA - TOO COOL TO BE CARELESS (Extended Mi.wav",
+      "collection": {
+        "rank": 39,
+        "percentile": 41.5,
+        "dj_level": 5
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/124/12A Aden Lou/Next Promises, Settow, Aden Lou - Brune (Ext.wav",
+      "duration_seconds": 287.42,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "12A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 93.8,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.91,
+        "crest_factor_db": 9.87,
+        "onsets_per_second": 5.372,
+        "spectral_centroid_hz": 2159.0,
+        "bass_power_ratio": 0.565
+      },
+      "components": {
+        "loudness": 96.2,
+        "compression": 67.7,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/124/12A Aden Lou/Next Promises, Settow, Aden Lou - Brune (Ext.wav",
+      "collection": {
+        "rank": 41,
+        "percentile": 38.5,
+        "dj_level": 4
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/127/6A Shouse/Shouse - Collective Ecstasy - 12 - Won\u2019t For.wav",
+      "duration_seconds": 230.95,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 127.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "6A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 93.5,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.93,
+        "crest_factor_db": 10.12,
+        "onsets_per_second": 3.646,
+        "spectral_centroid_hz": 2155.6,
+        "bass_power_ratio": 0.6793
+      },
+      "components": {
+        "loudness": 96.1,
+        "compression": 65.6,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/127/6A Shouse/Shouse - Collective Ecstasy - 12 - Won\u2019t For.wav",
+      "collection": {
+        "rank": 42,
+        "percentile": 36.9,
+        "dj_level": 4
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/UnknownArtist/UnknownAlbum/Ricksick - Electrophone 2006 (Eric Laville C.wav",
+      "duration_seconds": 425.85,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 128.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "1A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 93.5,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.5,
+        "crest_factor_db": 10.64,
+        "onsets_per_second": 4.83,
+        "spectral_centroid_hz": 2175.3,
+        "bass_power_ratio": 0.8577
+      },
+      "components": {
+        "loudness": 97.9,
+        "compression": 61.3,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/UnknownArtist/UnknownAlbum/Ricksick - Electrophone 2006 (Eric Laville C.wav",
+      "collection": {
+        "rank": 42,
+        "percentile": 36.9,
+        "dj_level": 4
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/124/1A_ Tiesto/01 - The Business (Vintage Culture & Dubdogz.wav",
+      "duration_seconds": 189.68,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "1A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 93.4,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -9.69,
+        "crest_factor_db": 9.28,
+        "onsets_per_second": 3.717,
+        "spectral_centroid_hz": 2165.0,
+        "bass_power_ratio": 0.7011
+      },
+      "components": {
+        "loudness": 92.9,
+        "compression": 72.6,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/124/1A_ Tiesto/01 - The Business (Vintage Culture & Dubdogz.wav",
+      "collection": {
+        "rank": 44,
+        "percentile": 33.8,
+        "dj_level": 4
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/123/12A Stromae/Stromae - Alors On Danse (DubDogz Extended R.wav",
+      "duration_seconds": 333.65,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 123.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "12A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 93.1,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.05,
+        "crest_factor_db": 9.57,
+        "onsets_per_second": 3.192,
+        "spectral_centroid_hz": 2740.1,
+        "bass_power_ratio": 0.4734
+      },
+      "components": {
+        "loudness": 99.8,
+        "compression": 70.2,
+        "rhythmic_activity": 90.4,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/123/12A Stromae/Stromae - Alors On Danse (DubDogz Extended R.wav",
+      "collection": {
+        "rank": 45,
+        "percentile": 32.3,
+        "dj_level": 4
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/119/4A MBNN/MBNN & Rowald Steyn - ilomilo (Extended Mix).wav",
+      "duration_seconds": 242.18,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 119.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "4A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 93.0,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.8,
+        "crest_factor_db": 10.65,
+        "onsets_per_second": 4.232,
+        "spectral_centroid_hz": 2332.0,
+        "bass_power_ratio": 0.6197
+      },
+      "components": {
+        "loudness": 96.7,
+        "compression": 61.2,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/119/4A MBNN/MBNN & Rowald Steyn - ilomilo (Extended Mix).wav",
+      "collection": {
+        "rank": 46,
+        "percentile": 30.8,
+        "dj_level": 4
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/124/8A Natiruts/KVSH - Sorri, Sou Rei (KVSH Remix).wav",
+      "duration_seconds": 217.68,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 123.92,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "8A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 92.5,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -9.37,
+        "crest_factor_db": 10.39,
+        "onsets_per_second": 4.401,
+        "spectral_centroid_hz": 2513.8,
+        "bass_power_ratio": 0.5584
+      },
+      "components": {
+        "loudness": 94.3,
+        "compression": 63.4,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/124/8A Natiruts/KVSH - Sorri, Sou Rei (KVSH Remix).wav",
+      "collection": {
+        "rank": 47,
+        "percentile": 29.2,
+        "dj_level": 3
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/130/8A_ Gadjo/06 Gadjo - So Many Times.wav",
+      "duration_seconds": 402.03,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 130.13,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "8A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 92.3,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -9.71,
+        "crest_factor_db": 10.13,
+        "onsets_per_second": 4.813,
+        "spectral_centroid_hz": 2669.6,
+        "bass_power_ratio": 0.4207
+      },
+      "components": {
+        "loudness": 92.9,
+        "compression": 65.6,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/130/8A_ Gadjo/06 Gadjo - So Many Times.wav",
+      "collection": {
+        "rank": 48,
+        "percentile": 27.7,
+        "dj_level": 3
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/120/6A Zerb/Zerb, Sofiya Nzau - Mwaki (Extended Mix).wav",
+      "duration_seconds": 272.14,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 120.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "6A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 92.2,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -9.78,
+        "crest_factor_db": 10.16,
+        "onsets_per_second": 6.339,
+        "spectral_centroid_hz": 2854.0,
+        "bass_power_ratio": 0.6671
+      },
+      "components": {
+        "loudness": 92.6,
+        "compression": 65.3,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/120/6A Zerb/Zerb, Sofiya Nzau - Mwaki (Extended Mix).wav",
+      "collection": {
+        "rank": 49,
+        "percentile": 26.2,
+        "dj_level": 3
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/124/10A Jovem Dionisio/Jovem Dionisio - Pontos de Exclama\u00e7\u00e3o (Vint.aiff",
+      "duration_seconds": 310.28,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 124.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "10A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 91.9,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -9.87,
+        "crest_factor_db": 10.31,
+        "onsets_per_second": 3.513,
+        "spectral_centroid_hz": 1799.2,
+        "bass_power_ratio": 0.6864
+      },
+      "components": {
+        "loudness": 92.2,
+        "compression": 64.1,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/124/10A Jovem Dionisio/Jovem Dionisio - Pontos de Exclama\u00e7\u00e3o (Vint.aiff",
+      "collection": {
+        "rank": 50,
+        "percentile": 24.6,
+        "dj_level": 3
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/UnknownArtist/UnknownAlbum/Soire - Divine. (Original Mix).wav",
+      "duration_seconds": 254.45,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 123.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "6A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 91.9,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -10.09,
+        "crest_factor_db": 10.06,
+        "onsets_per_second": 6.17,
+        "spectral_centroid_hz": 1916.3,
+        "bass_power_ratio": 0.9405
+      },
+      "components": {
+        "loudness": 91.3,
+        "compression": 66.2,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/UnknownArtist/UnknownAlbum/Soire - Divine. (Original Mix).wav",
+      "collection": {
+        "rank": 50,
+        "percentile": 24.6,
+        "dj_level": 3
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/UnknownArtist/UnknownAlbum/Salif Keita, MoBlack, Cesaria Evora, Franc F.wav",
+      "duration_seconds": 342.0,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 120.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "12A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 91.1,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -9.8,
+        "crest_factor_db": 11.03,
+        "onsets_per_second": 6.401,
+        "spectral_centroid_hz": 2187.6,
+        "bass_power_ratio": 0.8213
+      },
+      "components": {
+        "loudness": 92.5,
+        "compression": 58.1,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/UnknownArtist/UnknownAlbum/Salif Keita, MoBlack, Cesaria Evora, Franc F.wav",
+      "collection": {
+        "rank": 52,
+        "percentile": 21.5,
+        "dj_level": 3
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/120/1A Keinemusik/Adam Port, Keinemusik, Stryv, Malachiii - M.aiff",
+      "duration_seconds": 352.67,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 120.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "1A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 90.7,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -10.58,
+        "crest_factor_db": 10.46,
+        "onsets_per_second": 7.097,
+        "spectral_centroid_hz": 2175.8,
+        "bass_power_ratio": 0.7408
+      },
+      "components": {
+        "loudness": 89.3,
+        "compression": 62.8,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/120/1A Keinemusik/Adam Port, Keinemusik, Stryv, Malachiii - M.aiff",
+      "collection": {
+        "rank": 53,
+        "percentile": 20.0,
+        "dj_level": 2
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/120/8B Keinemusik/&ME, Rampa, Adam Port, Keinemusik, chuala -.aiff",
+      "duration_seconds": 416.5,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 120.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "9A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 90.3,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -10.37,
+        "crest_factor_db": 10.99,
+        "onsets_per_second": 6.713,
+        "spectral_centroid_hz": 2248.8,
+        "bass_power_ratio": 0.621
+      },
+      "components": {
+        "loudness": 90.1,
+        "compression": 58.4,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/120/8B Keinemusik/&ME, Rampa, Adam Port, Keinemusik, chuala -.aiff",
+      "collection": {
+        "rank": 54,
+        "percentile": 18.5,
+        "dj_level": 2
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/125/6A_ Avicii/Avicii - Hey Brother.m4a",
+      "duration_seconds": 254.07,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 125.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "6A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 90.3,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -11.08,
+        "crest_factor_db": 10.14,
+        "onsets_per_second": 3.676,
+        "spectral_centroid_hz": 2571.7,
+        "bass_power_ratio": 0.4271
+      },
+      "components": {
+        "loudness": 87.2,
+        "compression": 65.5,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/125/6A_ Avicii/Avicii - Hey Brother.m4a",
+      "collection": {
+        "rank": 54,
+        "percentile": 18.5,
+        "dj_level": 2
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/123/9A Hugel/Kurd Maverick, HUGEL - PYHU (Put Your Hands .wav",
+      "duration_seconds": 323.9,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 123.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "2A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 90.2,
+        "dj_level": 10,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -10.29,
+        "crest_factor_db": 11.14,
+        "onsets_per_second": 4.822,
+        "spectral_centroid_hz": 2372.8,
+        "bass_power_ratio": 0.674
+      },
+      "components": {
+        "loudness": 90.4,
+        "compression": 57.1,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/123/9A Hugel/Kurd Maverick, HUGEL - PYHU (Put Your Hands .wav",
+      "collection": {
+        "rank": 56,
+        "percentile": 15.4,
+        "dj_level": 2
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/UnknownArtist/UnknownAlbum/oskar med k - On The Ground (Original Mix).wav",
+      "duration_seconds": 243.72,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 129.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "4A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 89.5,
+        "dj_level": 9,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -9.16,
+        "crest_factor_db": 9.15,
+        "onsets_per_second": 5.186,
+        "spectral_centroid_hz": 1118.8,
+        "bass_power_ratio": 0.7709
+      },
+      "components": {
+        "loudness": 95.1,
+        "compression": 73.8,
+        "rhythmic_activity": 100.0,
+        "brightness": 51.2,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/UnknownArtist/UnknownAlbum/oskar med k - On The Ground (Original Mix).wav",
+      "collection": {
+        "rank": 57,
+        "percentile": 13.8,
+        "dj_level": 2
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/1A_ Breno Miranda/126_1A_/KVSH, Breno Miranda, Breno Rocha - Sede Pra .wav",
+      "duration_seconds": 293.33,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 126.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "1A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 89.4,
+        "dj_level": 9,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -10.78,
+        "crest_factor_db": 11.2,
+        "onsets_per_second": 3.665,
+        "spectral_centroid_hz": 2607.9,
+        "bass_power_ratio": 0.4507
+      },
+      "components": {
+        "loudness": 88.4,
+        "compression": 56.7,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/1A_ Breno Miranda/126_1A_/KVSH, Breno Miranda, Breno Rocha - Sede Pra .wav",
+      "collection": {
+        "rank": 58,
+        "percentile": 12.3,
+        "dj_level": 2
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/123/11A Maz (BR), VXSION/Maz (BR), VXSION - Amana [Dawn Patrol Recor.aiff",
+      "duration_seconds": 424.43,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 123.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "11A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 89.1,
+        "dj_level": 9,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -11.36,
+        "crest_factor_db": 10.83,
+        "onsets_per_second": 7.66,
+        "spectral_centroid_hz": 2547.9,
+        "bass_power_ratio": 0.8076
+      },
+      "components": {
+        "loudness": 86.0,
+        "compression": 59.7,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/123/11A Maz (BR), VXSION/Maz (BR), VXSION - Amana [Dawn Patrol Recor.aiff",
+      "collection": {
+        "rank": 59,
+        "percentile": 10.8,
+        "dj_level": 2
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/120/3A Keinemusik/Rampa, Keinemusik, chuala - Les Gout (Origin.wav",
+      "duration_seconds": 404.0,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 120.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "3A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 88.5,
+        "dj_level": 9,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -11.18,
+        "crest_factor_db": 11.45,
+        "onsets_per_second": 6.832,
+        "spectral_centroid_hz": 1796.8,
+        "bass_power_ratio": 0.6776
+      },
+      "components": {
+        "loudness": 86.7,
+        "compression": 54.6,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/120/3A Keinemusik/Rampa, Keinemusik, chuala - Les Gout (Origin.wav",
+      "collection": {
+        "rank": 60,
+        "percentile": 9.2,
+        "dj_level": 1
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/UnknownArtist/UnknownAlbum/Horatio - Sea Lion Woman (Extended).wav",
+      "duration_seconds": 215.88,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 128.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "3A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 88.0,
+        "dj_level": 9,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -12.22,
+        "crest_factor_db": 10.69,
+        "onsets_per_second": 4.803,
+        "spectral_centroid_hz": 2704.6,
+        "bass_power_ratio": 0.6664
+      },
+      "components": {
+        "loudness": 82.4,
+        "compression": 60.9,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/UnknownArtist/UnknownAlbum/Horatio - Sea Lion Woman (Extended).wav",
+      "collection": {
+        "rank": 61,
+        "percentile": 7.7,
+        "dj_level": 1
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/122/5B_ Rooftime/Rooftime - Out Of My Mind (Original Mix).wav",
+      "duration_seconds": 177.05,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 122.0,
+        "confidence": 93.0,
+        "source": "librosa"
+      },
+      "key": {
+        "camelot": "5B",
+        "confidence": 72.0,
+        "alternative": {
+          "camelot": "4B",
+          "confidence": 8.9
+        },
+        "source": "librosa"
+      },
+      "energy": {
+        "score": 87.3,
+        "dj_level": 9,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -8.88,
+        "crest_factor_db": 10.76,
+        "onsets_per_second": 2.954,
+        "spectral_centroid_hz": 1607.5,
+        "bass_power_ratio": 0.7007
+      },
+      "components": {
+        "loudness": 96.3,
+        "compression": 60.3,
+        "rhythmic_activity": 82.9,
+        "brightness": 88.2,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/122/5B_ Rooftime/Rooftime - Out Of My Mind (Original Mix).wav",
+      "collection": {
+        "rank": 62,
+        "percentile": 6.2,
+        "dj_level": 1
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/125/6A Gui Boratto/01-Gui_Borato_-_Azzurra_(Its_Not_The_Same_Ve.wav",
+      "duration_seconds": 326.4,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 125.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "6A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 86.9,
+        "dj_level": 9,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -10.56,
+        "crest_factor_db": 10.76,
+        "onsets_per_second": 3.603,
+        "spectral_centroid_hz": 1311.4,
+        "bass_power_ratio": 0.741
+      },
+      "components": {
+        "loudness": 89.3,
+        "compression": 60.3,
+        "rhythmic_activity": 100.0,
+        "brightness": 65.8,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/125/6A Gui Boratto/01-Gui_Borato_-_Azzurra_(Its_Not_The_Same_Ve.wav",
+      "collection": {
+        "rank": 63,
+        "percentile": 4.6,
+        "dj_level": 1
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/125/6B Gui Boratto/06 - Azzurra.wav",
+      "duration_seconds": 298.44,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 125.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "6B",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 81.6,
+        "dj_level": 9,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -11.76,
+        "crest_factor_db": 12.03,
+        "onsets_per_second": 3.331,
+        "spectral_centroid_hz": 1229.8,
+        "bass_power_ratio": 0.7006
+      },
+      "components": {
+        "loudness": 84.3,
+        "compression": 49.7,
+        "rhythmic_activity": 94.7,
+        "brightness": 59.6,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/125/6B Gui Boratto/06 - Azzurra.wav",
+      "collection": {
+        "rank": 64,
+        "percentile": 3.1,
+        "dj_level": 1
+      }
+    },
+    {
+      "file": "/run/media/rapha/CASTELLO/Contents/125/8A Carioca/JAKKO, Joe Kinni, Bianca Chami - Carioca fea.wav",
+      "duration_seconds": 223.78,
+      "analysis_sample_rate": 22050,
+      "tempo": {
+        "bpm": 125.0,
+        "confidence": null,
+        "source": "rekordbox"
+      },
+      "key": {
+        "camelot": "8A",
+        "confidence": null,
+        "alternative": null,
+        "source": "rekordbox"
+      },
+      "energy": {
+        "score": 81.0,
+        "dj_level": 9,
+        "label": "peak",
+        "source": "librosa"
+      },
+      "features": {
+        "rms_dbfs": -14.93,
+        "crest_factor_db": 13.09,
+        "onsets_per_second": 3.825,
+        "spectral_centroid_hz": 2210.6,
+        "bass_power_ratio": 0.6084
+      },
+      "components": {
+        "loudness": 71.1,
+        "compression": 40.9,
+        "rhythmic_activity": 100.0,
+        "brightness": 100.0,
+        "bass_weight": 100.0
+      },
+      "segments": [],
+      "relative_file": "Contents/125/8A Carioca/JAKKO, Joe Kinni, Bianca Chami - Carioca fea.wav",
+      "collection": {
+        "rank": 65,
+        "percentile": 1.5,
+        "dj_level": 1
+      }
+    }
+  ],
+  "errors": []
+}
