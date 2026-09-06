@@ -11,6 +11,17 @@ from pathlib import Path
 AUDIO_EXTENSIONS = frozenset({".aif", ".aiff", ".flac", ".m4a", ".mp3", ".ogg", ".wav"})
 CAMELOT_MINOR = ("5A", "12A", "7A", "2A", "9A", "4A", "11A", "6A", "1A", "8A", "3A", "10A")
 CAMELOT_MAJOR = ("8B", "3B", "10B", "5B", "12B", "7B", "2B", "9B", "4B", "11B", "6B", "1B")
+MUSICAL_TO_CAMELOT = {
+    "abm": "1A", "g#m": "1A", "ebm": "2A", "d#m": "2A",
+    "bbm": "3A", "a#m": "3A", "fm": "4A", "cm": "5A",
+    "gm": "6A", "dm": "7A", "am": "8A", "em": "9A",
+    "bm": "10A", "f#m": "11A", "gbm": "11A", "c#m": "12A",
+    "dbm": "12A", "b": "1B", "f#": "2B", "gb": "2B",
+    "db": "3B", "c#": "3B", "ab": "4B", "g#": "4B",
+    "eb": "5B", "d#": "5B", "bb": "6B", "a#": "6B",
+    "f": "7B", "c": "8B", "g": "9B", "d": "10B",
+    "a": "11B", "e": "12B",
+}
 
 
 def _dependencies():
@@ -30,14 +41,26 @@ def _normalize_rekordbox_path(value):
 
 
 def _normalize_camelot(value):
-    key = str(value or "").strip().upper()
-    if len(key) not in (2, 3) or key[-1] not in "AB":
-        return None
-    try:
-        number = int(key[:-1])
-    except ValueError:
-        return None
-    return key if 1 <= number <= 12 else None
+    raw = unicodedata.normalize("NFKC", str(value or "")).strip()
+    key = "".join(raw.split()).upper()
+    if len(key) in (2, 3) and key[-1] in "AB":
+        try:
+            number = int(key[:-1])
+        except ValueError:
+            number = 0
+        if 1 <= number <= 12:
+            return key
+
+    musical = "".join(raw.casefold().replace("♯", "#").replace("♭", "b").split())
+    if musical.endswith("minor"):
+        musical = musical[:-5] + "m"
+    elif musical.endswith("min"):
+        musical = musical[:-3] + "m"
+    elif musical.endswith("major"):
+        musical = musical[:-5]
+    elif musical.endswith("maj"):
+        musical = musical[:-3]
+    return MUSICAL_TO_CAMELOT.get(musical)
 
 
 def _find_rekordbox_database(path):

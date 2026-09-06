@@ -1,3 +1,4 @@
 .json
 /resources
-/_pycache__
+.pi/loops
+__pycache__
