@@ -1,4 +1,4 @@
-.json
+*.json
 /resources
 .pi/loops
 __pycache__
